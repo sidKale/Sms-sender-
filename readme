@@ -7,4 +7,10 @@ For sending sms create your account on https://www.fast2sms.com/
 At Bulk SMS section you will find you Sender Key
 And At Get Api you will find your API Key
 
+Installation
+
+pip install requests
+
+and you are good to go
+
 
