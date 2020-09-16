@@ -19,7 +19,7 @@ def send_sms(number, message):
     print(dic)
     return dic.get('return')
 
-
+#Developed by "SIDDHESH KALE"
 def btn_click():
     num = textNumber.get()
     msg = textMsg.get("1.0", END)
