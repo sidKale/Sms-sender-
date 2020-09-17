@@ -7,7 +7,7 @@ from tkinter.messagebox import showinfo, showerror
 def send_sms(number, message):
     url = 'https://www.fast2sms.com/dev/bulk'
     params = {
-        'authorization': 'Q7q5GjOkd2Ae1RK9uY8rWbZlNfLaoESPgpUc0Ch3BwimMT4nsDucFVRU14d6jy8Ho9SLDvYthOGiICbl',
+        'authorization': 'Your API Key',
         'sender_id': 'FastWP',
         'message': message,
         'language': 'english',
